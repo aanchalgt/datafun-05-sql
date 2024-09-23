@@ -1,4 +1,4 @@
-# datafun-05-sql
+# datafun-05-sql: Use SQl with Python
 
 ```
 clone github repo
@@ -10,4 +10,12 @@ clone github repo
 git add .
 git commit
 git push
+
+git pull
+```
+
+### install packages using requirements.txt
+```
+pandas
+pyarrow
 ```
