@@ -1,0 +1,9 @@
+2024-09-27 15:27:13,707 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-27 15:27:13,709 - INFO - Executed SQL from sql\update_records.sql
+2024-09-27 15:27:13,709 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-27 15:27:13,712 - INFO - Executed SQL from sql\query_aggregation.sql
+2024-09-27 15:27:13,713 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-27 15:27:13,715 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-27 15:27:13,716 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-27 15:27:13,718 - INFO - Executed SQL from sql\query_join.sql
+2024-09-27 15:27:13,718 - INFO - Program ended
