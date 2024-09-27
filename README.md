@@ -20,7 +20,7 @@ pandas
 pyarrow
 ```
 
-## Created foloowing SQL files
+## Created following SQL files
 
 ```
 create_tables.sql
