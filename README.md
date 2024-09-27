@@ -20,6 +20,20 @@ pandas
 pyarrow
 ```
 
+## Created foloowing SQL files
+
+```
+create_tables.sql
+insert_records.sql
+update_records.sql
+delete_records.sql
+query_aggregation.sql
+query_filter.sql
+query_sorting.sql
+query_group_by.sql
+query_join.sql 
+```
+
 ## db_initialize_aanchal.py
 ``` 
 This file contains code to setup data and pulls in data from two csv files.
